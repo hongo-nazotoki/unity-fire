@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-nazotoki-1.0";
 const contentToCache = [
     "Build/web.loader.js",
-    "Build/web.framework.js",
-    "Build/web.data",
-    "Build/web.wasm",
+    "Build/web.framework.js.gz",
+    "Build/web.data.gz",
+    "Build/web.wasm.gz",
     "TemplateData/style.css"
 
 ];
